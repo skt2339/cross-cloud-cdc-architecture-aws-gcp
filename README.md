@@ -10,4 +10,6 @@ The design focuses on:
 - Data correctness and reconciliation
 - Cost-aware analytics on BigQuery
 
+Refer to architecture/diagram.md for the end-to-end flow
+
 📄 Full design: `docs/design.md`
